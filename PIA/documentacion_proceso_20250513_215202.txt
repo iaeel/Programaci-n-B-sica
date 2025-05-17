@@ -1,0 +1,19 @@
+=== DOCUMENTACIÓN DEL PROCESO ===
+
+Fecha: 20250513_215202
+
+** EXTRACCIÓN **
+Se realizaron consultas a la API Jikan usando parámetros validados con expresiones regulares.
+
+** LIMPIEZA **
+Los datos fueron limpiados eliminando información irrelevante, corrigiendo formatos y resolviendo inconsistencias.
+
+** ESTRUCTURACIÓN **
+Se creó una lista de diccionarios con la información esencial organizada lógicamente para facilitar el análisis.
+
+** VALIDACIONES **
+Se implementaron validaciones para: IDs numéricos, formatos de texto, rangos de puntuación y valores permitidos en géneros y estados.
+
+** TRANSFORMACIONES **
+Se aplicaron transformaciones para: limpieza de texto, extracción de años, normalización de géneros y estudios.
+

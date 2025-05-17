@@ -1,0 +1,9 @@
+Documentación del Proceso de Extracción y Procesamiento de Datos de Anime
+
+1. Información General
+- Fecha: 2025-05-13 22:11:12
+- Término de búsqueda: "nisekoi"
+- Resultados obtenidos: 5
+
+2. Extracción de Datos
+[... resto del contenido de la documentación ...]

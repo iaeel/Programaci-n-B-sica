@@ -1,0 +1,57 @@
+[
+  {
+    "id": 38000,
+    "titulo": "Kimetsu no Yaiba",
+    "titulo_espanol": "Demon Slayer: Kimetsu no Yaiba",
+    "generos": "Action, Award Winning, Supernatural",
+    "puntuacion": 8.43,
+    "popularidad": 5,
+    "miembros": 3248912,
+    "fecha_inicio": "2019-04-06",
+    "sinopsis": "Ever since the death of his father, the burden of supporting the family has fallen upon Tanjirou Kamado's shoulders. Though living impoverished on a remote mountain, the Kamado family are able to enjoy a relatively peaceful and happy life. One day, Tanjirou decides to go down to the local village to make a little money selling charcoal. On his way back, night falls, forcing Tanjirou to take shelter in the house of a strange man, who warns him of the existence of flesh-eating demons that lurk in "
+  },
+  {
+    "id": 32606,
+    "titulo": "Onigiri",
+    "titulo_espanol": "Onigiri",
+    "generos": "Comedy, Fantasy",
+    "puntuacion": 5.33,
+    "popularidad": 4234,
+    "miembros": 32501,
+    "fecha_inicio": "2016-04-07",
+    "sinopsis": "Ancient Japan is under attack by powerful beings called \"Kamikui,\" and it is up to the \"Oni\" and his band of eight beautiful female warriors to stop them. Each of these girls have unique skills, abilities, and personalities. They partner themselves with the Oni, Jin, to stop the miasma of darkness sweeping across Japan. Onigiri follows the escapades of Jin and his merry companions as they strengthen their bonds and fend off the demonic invasion."
+  },
+  {
+    "id": 40456,
+    "titulo": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+    "titulo_espanol": "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train",
+    "generos": "Action, Supernatural",
+    "puntuacion": 8.56,
+    "popularidad": 71,
+    "miembros": 1665717,
+    "fecha_inicio": "2020-10-16",
+    "sinopsis": "After a string of mysterious disappearances begin to plague a train, the Demon Slayer Corps' multiple attempts to remedy the problem prove fruitless. To prevent further casualties, the Flame Pillar, Kyoujurou Rengoku, takes it upon himself to eliminate the threat. Accompanying him are some of the Corps' most promising new blood: Tanjirou Kamado, Zenitsu Agatsuma, and Inosuke Hashibira, who all hope to witness the fiery feats of this model demon slayer firsthand. Unbeknownst to them, the demonic "
+  },
+  {
+    "id": 47778,
+    "titulo": "Kimetsu no Yaiba: Yuukaku-hen",
+    "titulo_espanol": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
+    "generos": "Action, Supernatural",
+    "puntuacion": 8.72,
+    "popularidad": 76,
+    "miembros": 1597589,
+    "fecha_inicio": "2021-12-05",
+    "sinopsis": "Sin sinopsis disponible"
+  },
+  {
+    "id": 51019,
+    "titulo": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+    "titulo_espanol": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+    "generos": "Action, Supernatural",
+    "puntuacion": 8.19,
+    "popularidad": 178,
+    "miembros": 983513,
+    "fecha_inicio": "2023-04-09",
+    "sinopsis": "For centuries, the Demon Slayer Corps has sacredly kept the location of Swordsmith Village a secret. As the village of the greatest forgers, it provides Demon Slayers with the finest weapons, which allow them to fight night-crawling fiends and ensure the safety of humans. After his sword was chipped and deemed useless, Tanjirou Kamado, along with his precious little sister Nezuko, is escorted to the village to receive a new one. Meanwhile, the death of an Upper Rank Demon disturbs the idle order"
+  }
+]
